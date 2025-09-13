@@ -1,0 +1,17 @@
+Extensions:
+
+vscode-icons
+jupitor 
+jupitor cell tags
+jupitor slide show
+jellyfish theme
+material theme
+github theme 
+github copilot
+github copilot chat
+student github student package package
+codeium
+blackbox Ai code
+prettier
+Markdown all in one
+codesnap
